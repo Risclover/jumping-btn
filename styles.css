@@ -1,0 +1,15 @@
+.left {
+  border: 1px solid black;
+  width: auto;
+  height: 50px;
+}
+
+.right {
+  border: 1px solid black;
+  width: auto;
+  height: 50px;
+}
+
+button {
+  margin: 20px;
+}
