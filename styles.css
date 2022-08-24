@@ -1,15 +1,13 @@
-.left {
-  border: 1px solid black;
-  width: auto;
-  height: 50px;
-}
-
+.left,
 .right {
-  border: 1px solid black;
   width: auto;
   height: 50px;
 }
 
 button {
   margin: 20px;
+}
+
+#btn-1 {
+  display: none;
 }
